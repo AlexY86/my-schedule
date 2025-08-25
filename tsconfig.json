@@ -11,7 +11,11 @@
   "include": [
     "**/*.ts",
     "**/*.tsx",
-    ".expo/types/**/*.ts",
-    "expo-env.d.ts"
-, "app/signup.js"  ]
+    "app/(auth)/signup.js",
+    "app/(auth)/login.js",
+    "app/(tabs)/_layout.js",
+    "app/(auth)/_layout.js",
+    "app/_layout.js",
+    "app/+not-found.js"
+  ]
 }

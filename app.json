@@ -8,6 +8,11 @@
     "scheme": "myschedule",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": false,
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
     "ios": {
       "supportsTablet": true
     },
